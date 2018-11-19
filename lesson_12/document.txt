@@ -1,0 +1,21 @@
+Привет!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Суйте</title>
+	<link rel="shortcut icon" tupe="image/x-icon" href="favicon.icon">
+	<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+	<h1>Главный заголовок</h1>
+	<input type="text" placeholder="Добрый день">
+	<img src="img/2 ї.png">
+	<a href="https://www.youtube.com">Ссылка на ютуб</a><br>
+	<a href="news.html">Ссылка на новости(внутри)</a>
+	<br>
+	<a download href="document.txt">Ссылка на файл</a>
+
+</body>
+</html> 

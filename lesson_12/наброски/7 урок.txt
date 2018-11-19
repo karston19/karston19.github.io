@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<meta charset="UTF-8">
+	<title>Залупа</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<div class="section">
+	<h1 class="header-title"><span>Получите кусок залупы</span><strong>Как заработать свой первый гандон</strong></h1>
+	</div>
+<div class="main">
+	<div class="video">
+		<iframe width="550" height="309" src="https://www.youtube.com/embed/cFv16_GsOVQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="form">
+		<p class="form-header">Введите свой email</p>
+		<form action="#">
+			<input type="text" placeholder="Ваше имя">
+			<input type="text" placeholder="Ваш email">
+			<button class="btn">Получить инструкцию</button>
+			
+		</form>
+	</div>
+</div>	
+
+<div class="section">
+	<h2 class="feature-header">Почему нужно сделать это сейчас</h2>
+	<div class="feature">
+		<div class="col">
+			<img src="img/1.png" alt="Первое преимущество">
+			<p>Первое преимищество</p>
+		</div>
+		<div class="col">
+			<img src="img/2.png" alt="Второе">
+			<p>Второе преимищество</p>
+		</div>
+		<div class="col">
+			<img src="img/3.png" alt="Третье преимущество">
+			<p>Третье преимищество</p>
+		</div>
+		<div class="col">
+			<img src="img/4.png" alt="Четвертое преимущество">
+			<p>Четвертое преимищество</p>
+		</div>
+		<button class="btn">Получить инструкцию</button>
+</div>			
+	</body>
+	</html>	
